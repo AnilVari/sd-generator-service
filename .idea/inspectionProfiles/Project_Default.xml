@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.flask" />
+          <option value="data_loader.sdatasourceserver" />
+          <option value="data_generators" />
+          <option value="main.data_loader" />
+          <option value="main.privacy_preserver" />
+          <option value="pandas_profiling" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
